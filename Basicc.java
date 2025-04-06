@@ -8,6 +8,6 @@ public class Basicc{
         Scanner s=new Scanner(System.in);
         num=s.nextInt();
         System.out.println("Entered integer is: "+num);
-        s.close();66
+        s.close();
     }
 }
