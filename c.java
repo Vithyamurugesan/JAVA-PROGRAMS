@@ -26,6 +26,8 @@ public class c {
             case 7:
             System.out.println("Sunday");
             break;
+            default:
+            System.out.println("Enter the valid number");
         }
 
     }
